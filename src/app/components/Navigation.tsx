@@ -22,21 +22,21 @@ export function Navigation({ currentPage, setCurrentPage }: NavigationProps) {
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-sm border-b border-gray-100">
-      <div className="max-w-7xl mx-auto px-6 lg:px-8">
+      <div className="max-w-7xl mx-auto px-2 md:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <button 
             onClick={() => setCurrentPage('home')}
-            className="flex items-center gap-0.5 group md:flex md:items-center md:gap-0.5"
+            className="flex items-center gap-0 group md:flex md:items-center md:gap-0.5"
           >
             <img 
               src="/logo.png" 
               alt="Logo" 
               className="h-12 w-12 md:h-20 md:w-20 object-contain"
             />
-            <div className="flex flex-col -ml-2 md:-ml-5">
-              <span className="text-lg md:text-2xl tracking-tight text-gray-900">SUYDAM WILLIAMS</span>
-              <span className="text-xs md:text-sm text-gray-900 tracking-[0.35em]">PHOTOGRAPHY</span>
+            <div className="flex flex-col -ml-1 md:-ml-5">
+              <span className="text-lg md:text-2xl tracking-tight text-gray-900 leading-tight">SUYDAM WILLIAMS</span>
+              <span className="text-xs md:text-sm text-gray-900 tracking-[0.35em] -mt-1 md:mt-0 leading-tight">PHOTOGRAPHY</span>
             </div>
           </button>
 

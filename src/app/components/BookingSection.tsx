@@ -94,7 +94,7 @@ export function BookingSection() {
                     value={formData.phone}
                     onChange={handleChange}
                     className="w-full px-4 py-3 border border-gray-300 focus:outline-none focus:border-gray-900 transition-colors"
-                    placeholder="(555) 123-4567"
+                    placeholder="(959) 999-6154"
                   />
                 </div>
 
@@ -176,8 +176,8 @@ export function BookingSection() {
                   <Mail className="size-6 text-gray-900 flex-shrink-0 mt-1" />
                   <div>
                     <p className="text-gray-700 mb-1">Email</p>
-                    <a href="mailto:hello@lensandlight.com" className="text-gray-900 hover:underline">
-                      hello@suydamwilliams.com
+                    <a href="mailto:suydamstudio@yahoo.com" className="text-gray-900 hover:underline">
+                      suydamstudio@yahoo.com
                     </a>
                   </div>
                 </div>
@@ -186,8 +186,8 @@ export function BookingSection() {
                   <Phone className="size-6 text-gray-900 flex-shrink-0 mt-1" />
                   <div>
                     <p className="text-gray-700 mb-1">Phone</p>
-                    <a href="tel:+15551234567" className="text-gray-900 hover:underline">
-                      (555) 123-4567
+                    <a href="tel:+19599996154" className="text-gray-900 hover:underline">
+                      (959) 999-6154
                     </a>
                   </div>
                 </div>

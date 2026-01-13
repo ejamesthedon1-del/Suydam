@@ -93,13 +93,13 @@ export function Footer({ setCurrentPage }: FooterProps) {
               <li>13627 Greenview Ave</li>
               <li>Baton Rouge, LA 70816</li>
               <li className="pt-2">
-                <a href="tel:+15551234567" className="hover:text-white transition-colors">
-                  (555) 123-4567
+                <a href="tel:+19599996154" className="hover:text-white transition-colors">
+                  (959) 999-6154
                 </a>
               </li>
               <li>
-                <a href="mailto:hello@lensandlight.com" className="hover:text-white transition-colors">
-                  hello@suydamwilliams.com
+                <a href="mailto:suydamstudio@yahoo.com" className="hover:text-white transition-colors">
+                  suydamstudio@yahoo.com
                 </a>
               </li>
             </ul>

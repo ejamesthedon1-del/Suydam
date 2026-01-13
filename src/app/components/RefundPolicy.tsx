@@ -286,8 +286,8 @@ export function RefundPolicy({ setCurrentPage }: RefundPolicyProps) {
               <p>Cancellations & Refunds Department</p>
               <p>13627 Greenview Ave</p>
               <p>Baton Rouge, LA 70816</p>
-              <p className="mt-2">Email: cancellations@suydamwilliams.com</p>
-              <p>Phone: (555) 123-4567</p>
+              <p className="mt-2">Email: suydamstudio@yahoo.com</p>
+              <p>Phone: (959) 999-6154</p>
               <p className="mt-2 text-sm">Office hours: Monday-Friday, 9:00 AM - 6:00 PM CST</p>
             </div>
           </section>

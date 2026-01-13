@@ -200,8 +200,8 @@ export function TermsOfService({ setCurrentPage }: TermsOfServiceProps) {
               <p className="mb-2"><strong>Suydam Williams Photography</strong></p>
               <p>13627 Greenview Ave</p>
               <p>Baton Rouge, LA 70816</p>
-              <p className="mt-2">Email: legal@suydamwilliams.com</p>
-              <p>Phone: (555) 123-4567</p>
+              <p className="mt-2">Email: suydamstudio@yahoo.com</p>
+              <p>Phone: (959) 999-6154</p>
             </div>
           </section>
 

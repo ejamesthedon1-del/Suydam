@@ -27,8 +27,8 @@ export function BusinessPolicies({ setCurrentPage }: BusinessPoliciesProps) {
               <p className="mb-2"><strong>Business Structure:</strong> Sole Proprietorship</p>
               <p className="mb-2"><strong>Tax ID (EIN):</strong> 12-3456789</p>
               <p className="mb-2"><strong>Business Address:</strong> 13627 Greenview Ave, Baton Rouge, LA 70816</p>
-              <p className="mb-2"><strong>Phone:</strong> (555) 123-4567</p>
-              <p className="mb-2"><strong>Email:</strong> hello@suydamwilliams.com</p>
+              <p className="mb-2"><strong>Phone:</strong> (959) 999-6154</p>
+              <p className="mb-2"><strong>Email:</strong> suydamstudio@yahoo.com</p>
               <p className="mb-2"><strong>Website:</strong> www.suydamwilliams.com</p>
             </div>
           </section>
@@ -296,11 +296,11 @@ export function BusinessPolicies({ setCurrentPage }: BusinessPoliciesProps) {
               <p className="mb-1">Business Operations Department</p>
               <p>13627 Greenview Ave</p>
               <p>Baton Rouge, LA 70816</p>
-              <p className="mt-2">General Inquiries: hello@lensandlight.com</p>
-              <p>Legal/Compliance: legal@lensandlight.com</p>
-              <p>Billing: billing@lensandlight.com</p>
-              <p>Complaints: complaints@lensandlight.com</p>
-              <p className="mt-2">Phone: (555) 123-4567</p>
+              <p className="mt-2">General Inquiries: suydamstudio@yahoo.com</p>
+              <p>Legal/Compliance: legal@suydamwilliams.com</p>
+              <p>Billing: billing@suydamwilliams.com</p>
+              <p>Complaints: complaints@suydamwilliams.com</p>
+              <p className="mt-2">Phone: (959) 999-6154</p>
               <p>Fax: (555) 123-4568</p>
             </div>
           </section>

@@ -243,8 +243,8 @@ export function PrivacyPolicy({ setCurrentPage }: PrivacyPolicyProps) {
               <p className="mb-1">Data Protection Officer</p>
               <p>13627 Greenview Ave</p>
               <p>Baton Rouge, LA 70816</p>
-              <p className="mt-2">Email: privacy@suydamwilliams.com</p>
-              <p>Phone: (555) 123-4567</p>
+              <p className="mt-2">Email: suydamstudio@yahoo.com</p>
+              <p>Phone: (959) 999-6154</p>
             </div>
           </section>
 

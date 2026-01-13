@@ -27,16 +27,16 @@ export function Navigation({ currentPage, setCurrentPage }: NavigationProps) {
           {/* Logo */}
           <button 
             onClick={() => setCurrentPage('home')}
-            className="flex items-center gap-0.5 group"
+            className="flex items-center gap-0.5 group md:flex md:items-center md:gap-0.5"
           >
             <img 
               src="/logo.png" 
               alt="Logo" 
-              className="h-20 w-20 object-contain"
+              className="h-12 w-12 md:h-20 md:w-20 object-contain"
             />
-            <div className="flex flex-col -ml-5">
-              <span className="text-2xl tracking-tight text-gray-900">SUYDAM WILLIAMS</span>
-              <span className="text-sm text-gray-900 tracking-[0.35em]">PHOTOGRAPHY</span>
+            <div className="flex flex-col -ml-2 md:-ml-5">
+              <span className="text-lg md:text-2xl tracking-tight text-gray-900">SUYDAM WILLIAMS</span>
+              <span className="text-xs md:text-sm text-gray-900 tracking-[0.35em]">PHOTOGRAPHY</span>
             </div>
           </button>
 
